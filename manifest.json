@@ -4,9 +4,9 @@
     {
       "version": "0.1.1",
       "url": "https://github.com/elbi-graphene/network_module/raw/refs/heads/main/firmware-ota/v0.1.1/firmware.bin",
-      "md5": "a1b2c3d4e5f6...",
+      "md5": "",
       "mandatory": false,
-      "notes": "Fix bug sensor"
+      "notes": "initial stable"
     }
   ]
 }
